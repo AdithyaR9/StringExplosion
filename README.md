@@ -12,8 +12,10 @@ Alteration Rules:
      - 4 letter words are replaced with **** 
             Ex: dogs = ****
      - 6 letter words
-         - Letters at locations (0 and 5) and (2 and 3)  Ex: spring = gpirns
-         - 8+ letter words are broken into two words of equal length  Ex: iterator = iter ator
+         - Letters at locations (0 and 5) and (2 and 3)
+            Ex: spring = gpirns
+         - 8+ letter words are broken into two words of equal length
+            Ex: iterator = iter ator
   Words of odd length
     - 1 letter words are replaced with %
             Ex: A = % 
