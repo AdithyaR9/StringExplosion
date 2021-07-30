@@ -5,8 +5,8 @@ Uploaded July 2021
 
 This is a String Application that allows the user to enter a sentence and then prints the altered form of the sentence using on the following rules.
 
-Alteration Rules:
-   Words of even length
+- Alteration Rules:
+   - Words of even length
      - 2 letter words are converted to all caps 
             Ex: it = IT
      - 4 letter words are replaced with **** 
@@ -16,7 +16,7 @@ Alteration Rules:
             Ex: spring = gpirns
          - 8+ letter words are broken into two words of equal length
             Ex: iterator = iter ator
-  Words of odd length
+  - Words of odd length
     - 1 letter words are replaced with %
             Ex: A = % 
     - 3 letter words
